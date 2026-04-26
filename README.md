@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Song Name: "Ya Rouhi Enti El Helm – Oh My Soul, You Are the Dream"
+> Song Style: Melodic Romantic / Love / Emotional / Natural Poetry.. Not Complex Words..
+> Music Style: Melodic psychedelic hard rock, mid-tempo 90 BPM, blues fusion, raw powerful gritty energy, soul-touching vocals, distorted gritty blues guitar riffs, expressive lead solos with bends and slides, blues scale phrasing, warm overdriven bass, punchy acoustic drum kit, straight backbeat no shuffle, punchy snare and deep kick, dynamic drum fills, driving bass groove, intense rhythmic energy, anthemic stadium vocals, raspy emotional male vocal, smooth powerful female vocal, call and response duet, rich harmonies, hook-driven soaring chorus, high-pitched power tenor, wide stereo guitars, clean ambient guitar layers, centered vocals, plate reverb, delay throws, cinematic synths, subtle Hammond organ, atmospheric pads, lush strings, cinematic build-ups, tension and release, analog warmth saturation, crisp modern rock production, modern alt-rock style, raw soulful energy, clear Western instrumentation
+> يا روحي أنت الحلم الجميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
